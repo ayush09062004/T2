@@ -13,16 +13,7 @@ NOTE: The instructions below comply with the version of mozaik at the time of th
 
 Dependencies
 ------------
-* python 2.7
-* scipy/numpy
-* nest (latest release, compiled with mpi)
-* mpi4py
-* pyNN 
-* imagen
-* param
-* parameters
-* quantities 
-* neo
+* Same as Mozaik
 
 Installation
 ------------
